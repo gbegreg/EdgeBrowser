@@ -275,13 +275,6 @@ object Form1: TForm1
         OnChange = tbZoomChange
       end
     end
-    object EdgeBrowser1: TEdgeBrowser
-      Left = 752
-      Top = 8
-      Width = 100
-      Height = 41
-      TabOrder = 2
-    end
   end
   object StatusBar1: TStatusBar
     Left = 0

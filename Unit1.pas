@@ -35,7 +35,6 @@ type
     imgPhoto: TImage;
     SaveDialog1: TSaveDialog;
     imgHTML: TImage;
-    EdgeBrowser1: TEdgeBrowser;
     procedure actGoExecute(Sender: TObject);
     procedure imgGoClick(Sender: TObject);
     procedure eAdresseKeyDown(Sender: TObject; var Key: Word;
